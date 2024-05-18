@@ -51,6 +51,11 @@ deco.moraes@icloud.com
 
 www.linkedin.com/in/deco
 
+<!-- ![Footer](https://raw.githubusercontent.com/decomoraes/decomoraes/main/deco-footer.webp) -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/decomoraes/decomoraes/main/deco-footer.webp" alt="Sublime's custom image" width="200" />
+</p>
 
 <!--
 **decomoraes/decomoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
