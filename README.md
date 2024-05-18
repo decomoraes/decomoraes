@@ -57,9 +57,7 @@ During this time, I spent two years working on diverse projects, which helped me
 
 ## CONTACT
 
-deco.moraes@icloud.com
-
-www.linkedin.com/in/deco
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deco)
 
 <!-- ![Footer](https://raw.githubusercontent.com/decomoraes/decomoraes/main/deco-footer.webp) -->
 
