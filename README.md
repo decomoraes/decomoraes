@@ -7,9 +7,19 @@ Passionate software engineer with a keen entrepreneurial spirit. Thriving at sol
 ## SKILLS
 
 ### Programming Languages:
+<!--
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 Rust, Golang, C#, Python, and TypeScript.
+-->
+
+[![My Skills](https://skillicons.dev/icons?i=rust,golang,cs,ts)](https://skillicons.dev)
 
 ### Technologies
+<!-- [![My Skills](https://skillicons.dev/icons?i=actix,fiber,react,svelte,express,wasm)](https://skillicons.dev) -->
 React, React Native, Svelte, Express, Actix Web, Fiber, ASP.NET Core, Flask, gRPC, Kafka, AWS, Prometheus, Grafana, Sentry, Open Telemetry, Concurrent Programming.
 
 ## EXPERIENCE
