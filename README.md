@@ -1,3 +1,5 @@
+![Header](https://raw.githubusercontent.com/decomoraes/decomoraes/main/deco-header.webp)
+
 ## SUMMARY
 
 Passionate software engineer with a keen entrepreneurial spirit. Thriving on solving complex problems, I specialize in Rust, Golang, C#, and TypeScript. I excel at crafting efficient, scalable applications and delivering high-quality code. Collaborating seamlessly within cross-functional teams, I drive innovation to enhance user experiences.
