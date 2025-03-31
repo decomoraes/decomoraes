@@ -26,39 +26,34 @@ React, React Native, Svelte, Express, Actix Web, Fiber, ASP.NET Core, Flask, gRP
 
 ### Tilt · 2025 - Present
 At Tilt, I’m building a distributed computing platform that leverages the idle processing power of connected devices. I’ve been focusing on designing the system architecture, implementing core modules for data segmentation, task distribution, and result collection, as well as managing device presence through WebRTC and fallback APIs. Technologies include Rust, WebAssembly, gRPC, WebRTC, and cloud-native infrastructure.
-> Software Engineer Senior
-> California, United States
+> Software Engineer Senior • California, United States
 
 ### Roadr · 2023 - 2025
 As a Senior Full-stack Developer and Tech Lead at Roadr, I primarily focus on refactoring and enhancing backend systems, emphasizing applying design patterns and concurrency. My responsibilities involve refactoring highly scalable systems using technologies like Rust, Golang, gRPC, Kafka, Redis, Mongo, and React Native.
-> Tech Lead & Full-stack Software Engineer Senior 
-> California, United States
+> Tech Lead & Full-stack Software Engineer Senior • California, United States
 
 ### Akttom · 2020 - 2023
 Following the unfortunate closure of my startup due to the pandemic, I joined Akttom to spearhead the modernization of company processes and align with emerging market trends. Technologies used: C# (Blazor, Maui), Azure, Go and Rust.
-> Senior Software Engineer
-> São Paulo, State of São Paulo, Brasil
+> Senior Software Engineer • São Paulo, State of São Paulo, Brasil
 
 ### PayParty · 2017 - 2020
 As a founder of PayParty, I played a vital role in transforming the global entertainment experience through real-time data usage, ensuring convenience and security for consumers and businesses alike. Technologies used: React, React Native, Express, AWS, and TypeScript.
-> COO & Founder
-> Rua Bacaetava, 191, cj. 1601, 1602, 1603
+> COO & Founder • Rua Bacaetava, 191, cj. 1601, 1602, 1603
 
 ### Akttom · 2015 - 2017
 During this time, I spent two years working on diverse projects, which helped me build a solid programming language foundation. This experience broadened my skills, enabling success in both tech and management. Technologies: JavaScript and C#.
-> Software Engineer
-> Rua Francisco de Moraes, 209, São Paulo, São Paulo, Brasil
+> Software Engineer • Rua Francisco de Moraes, 209, São Paulo, São Paulo, Brasil
 
 ## EDUCATION
 
-- **2013 - 2017** · Bachelor's degree, Business Administration · Centro Universitário Senac
-- **2021 - 2026** · Bachelor's degree, Computer Engineering · Universidade Anhembi Morumbi
-- **2021 - 2026** · Bachelor's degree, Civil Engineering · Universidade Anhembi Morumbi
+- **2013 - 2017** • Bachelor's degree, Business Administration · Centro Universitário Senac
+- **2021 - 2026** • Bachelor's degree, Computer Engineering · Universidade Anhembi Morumbi
+- **2021 - 2026** • Bachelor's degree, Civil Engineering · Universidade Anhembi Morumbi
 
 ## HONORS-AWARDS
 
-- Fintech of the Year - Innovation Pay 2018
-- Summa Cum Laude - Business Administration Thesis
+- Fintech of the Year • Innovation Pay 2018
+- Summa Cum Laude • Business Administration Thesis
 
 ## CONTACT
 
