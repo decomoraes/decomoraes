@@ -46,9 +46,9 @@ During this time, I spent two years working on diverse projects, which helped me
 
 ## EDUCATION
 
-- **2013 - 2017** • Bachelor's degree, Business Administration · Centro Universitário Senac
-- **2021 - 2026** • Bachelor's degree, Computer Engineering · Universidade Anhembi Morumbi
-- **2021 - 2026** • Bachelor's degree, Civil Engineering · Universidade Anhembi Morumbi
+- **2013 - 2017** • Bachelor's degree, Business Administration • Centro Universitário Senac
+- **2021 - 2026** • Bachelor's degree, Computer Engineering • Universidade Anhembi Morumbi
+- **2021 - 2026** • Bachelor's degree, Civil Engineering • Universidade Anhembi Morumbi
 
 ## HONORS-AWARDS
 
