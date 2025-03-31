@@ -24,10 +24,15 @@ React, React Native, Svelte, Express, Actix Web, Fiber, ASP.NET Core, Flask, gRP
 
 ## EXPERIENCE
 
-### Roadr · 2023 - Present
+### Tilt · 2025 - Present
+At Tilt, I’m building a distributed computing platform that leverages the idle processing power of connected devices. I’ve been focusing on designing the system architecture, implementing core modules for data segmentation, task distribution, and result collection, as well as managing device presence through WebRTC and fallback APIs. Technologies include Rust, WebAssembly, gRPC, WebRTC, and cloud-native infrastructure.
+> Software Engineer Senior
+> California, United States
+
+### Roadr · 2023 - 2025
 As a Senior Full-stack Developer and Tech Lead at Roadr, I primarily focus on refactoring and enhancing backend systems, emphasizing applying design patterns and concurrency. My responsibilities involve refactoring highly scalable systems using technologies like Rust, Golang, gRPC, Kafka, Redis, Mongo, and React Native.
 > Tech Lead & Full-stack Software Engineer Senior 
-> Califórnia, Estados Unidos
+> California, United States
 
 ### Akttom · 2020 - 2023
 Following the unfortunate closure of my startup due to the pandemic, I joined Akttom to spearhead the modernization of company processes and align with emerging market trends. Technologies used: C# (Blazor, Maui), Azure, Go and Rust.
