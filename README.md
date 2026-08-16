@@ -24,7 +24,10 @@ React, React Native, Svelte, Express, Actix Web, Fiber, ASP.NET Core, Flask, gRP
 
 ## EXPERIENCE
 
-### Tilt · 2025 - Present
+### The Bunny Lab · 2026 - Present
+> Co-Founder • São Paulo, Brazil
+
+### Tilt · 2025 - 2026
 At Tilt, I’m building a distributed computing platform that leverages the idle processing power of connected devices. I’ve been focusing on designing the system architecture, implementing core modules for data segmentation, task distribution, and result collection, as well as managing device presence through WebRTC and fallback APIs. Technologies include Rust, WebAssembly, gRPC, WebRTC, and cloud-native infrastructure.
 > Software Engineer Senior • California, United States
 
